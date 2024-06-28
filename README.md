@@ -1,7 +1,8 @@
 
 <h1>Hi👋🏽, I'm Jerome!</h1>
 
-- 🌱 I’m currently learning: vulnerability management and Kali Linux
+- 🔭 I’m currently working on Blue Team Level 1 Certification
+- 🌱 I’m currently learning: vulnerability management using Qualys and Kali Linux
 -  📫 How to reach me: email is best (jeromew.beverly@gmail.com)
 -  🤔 I’m looking for help with internships and entry level roles!
 
