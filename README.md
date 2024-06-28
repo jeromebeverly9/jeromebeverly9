@@ -1,6 +1,9 @@
 
 <h1>Hi👋🏽, I'm Jerome!</h1>
 
+- 🌱 I’m currently learning: vulnerability management and Kali Linux
+-  📫 How to reach me: email is best (jeromew.beverly@gmail.com)
+-  🤔 I’m looking for help with internships and entry level roles!
 
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
@@ -9,7 +12,7 @@
   While you're here, please feel free to take a look at a few projects I've worked on. More to come soon! 🙂
 </body>
 
-- <b>Azure SOC and Honeynet Home Lab</b>
+- <b><a href="https://github.com/jeromebeverly9/Azure-SOC-Lab">Azure SOC and Honeynet Home Lab</a></b>
 
 - <b>Vulnerability Management Lab Using Qualys</b>  <i>(ongoing)<i/>
 
