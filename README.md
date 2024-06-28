@@ -1,5 +1,6 @@
 
-<h1>Hi👋🏽, I'm Jerome!
+<h1>Hi👋🏽, I'm Jerome!</h1>
+
 
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
@@ -12,10 +13,16 @@
 
 - <b>Vulnerability Management Lab Using Qualys</b>  <i>(ongoing)<i/>
 
-- <b>Threat Detection with YARA</b>  <i>(ongoing)<i/>
+<h2>🎖️Certifications</h2>
+
+-<b>CompTIA Security+ </b>
+
+-<b>Google Cybersecurity Professional Certificate </b>
+
+-<b>Blue Team Level 1 (expected July 2024) </b>
   
 
-<h2> 🤝 Connect with me:</h2>
+<h2> 🤝 Connect with me</h2>
 
 - Linked-In: www.linkedin.com/in/jeromewbeverly
 - Credly: https://www.credly.com/users/jerome-beverly
