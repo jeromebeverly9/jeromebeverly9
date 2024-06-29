@@ -21,7 +21,7 @@
 
 -<b>CompTIA Security+ </b>
 
--<b>Google Cybersecurity Professional Certificate </b>
+-<b>Google Cybersecurity Certificate </b>
 
 -<b>Blue Team Level 1 (expected July 2024) </b>
   
