@@ -24,8 +24,6 @@
 -<b>Google Cybersecurity Certificate </b>
 
 -<b>F.E.M.A. IS-100.C Introduction to Incident Command System (ICS) </b>
-
--<b>Blue Team Level 1 (expected July 2024) </b>
   
 
 <h2> 🤝 Connect with me</h2>
