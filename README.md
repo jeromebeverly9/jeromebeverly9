@@ -15,7 +15,7 @@
 
 - <b><a href="https://github.com/jeromebeverly9/Azure-SOC-Lab">Azure SOC and Honeynet Home Lab</a></b>
 
-- <b><a href="https://github.com/jeromebeverly9/Vulnerability-Management-Lab-Using-Nessus/tree/main">Vulnerability Management Lab Using Nessus</b>  <i>(ongoing)<i/>
+- <b><a href="https://github.com/jeromebeverly9/Vulnerability-Management-Lab-Using-Nessus/tree/main">Vulnerability Management Lab Using Nessus</b>
 
 <h2>🎖️Certifications</h2>
 
