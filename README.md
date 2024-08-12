@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Network + certification
 - 🌱 I’m currently exploring: Kali Linux; vulnerability management using Nessus; and powershell!
--  📫 How to reach me: email is best (jeromew.beverly@gmail.com)
+-  📫 How to reach me: email is best <i>jeromew.beverly@gmail.com</i>
 -  🤔 I’m looking for help with internships and entry level roles!
 
 
