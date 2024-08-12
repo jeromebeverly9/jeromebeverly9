@@ -17,6 +17,8 @@
 
 - <b><a href="https://github.com/jeromebeverly9/Vulnerability-Management-Lab-Using-Nessus/tree/main">Vulnerability Management Lab Using Nessus</b>
 
+- <b><a href="https://github.com/jeromebeverly9/Network-Intrusion-and-Reconnaissance">Network Intrusion and Reconnaissance</b>
+
 <h2>🎖️Certifications</h2>
 
 -<b>CompTIA Security+ </b>
