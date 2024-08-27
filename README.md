@@ -2,7 +2,7 @@
 <h1>Hi👋🏽, I'm Jerome!</h1>
 
 - 🔭 I’m currently working on my Network + certification
-- 🌱 I’m currently exploring: Kali Linux; vulnerability management using Nessus; and powershell!
+- 🌱 I’m currently exploring: Kali Linux and powershell!
 -  📫 How to reach me: email is best <i>jeromew.beverly@gmail.com</i>
 -  🤔 I’m looking for help with internships and entry level roles!
 
